@@ -26,7 +26,8 @@
     font-size: 20px;
 }
 .bg{
-    justify-self: center;
+    background-size:cover;
+    background-position: center;
 }
 /*color palette:
 #25242A
