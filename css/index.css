@@ -1,6 +1,6 @@
 .body{
-    color:black;
-    font-size: 12px;
+    color: #2221B4;
+    font-size: 18px;
     padding: 20px;
     border-radius: 10px;
     font-family: Arial, Helvetica, sans-serif;
@@ -14,11 +14,25 @@
     padding-bottom: 20px;
     padding-top: 20px;
     border-color: aqua;
-    border-radius: 20px;
+    border-radius: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #c0542d;
 }
 .footer{
     background-color: #A49D9D;
     border-radius: 10px;
-    padding: auto;
+    padding: 20px;
+    color: #25242A;
+    font-size: 20px;
 }
+.bg{
+    justify-self: center;
+}
+/*color palette:
+#25242A
+#3D498D
+#A49D9D
+#C0542D
+#2221B4
+Porque? porque me gusta esa mezcla de colores
+*/
