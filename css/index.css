@@ -6,7 +6,7 @@
     font-family: Arial, Helvetica, sans-serif;
     background: fixed;
     background-color: aqua;
-    background-color: #25242A;
+    background-color: #A49D9D;
 }
 .head{
     font-size: 22px;
@@ -19,11 +19,11 @@
     color: #c0542d;
 }
 .footer{
-    background-color: #A49D9D;
+    background-color: #C0542D;
     border-radius: 10px;
     padding: 20px;
     color: #25242A;
-    font-size: 20px;
+    font-size: 30px;
 }
 .bg{
     background-position: center;
